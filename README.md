@@ -4,3 +4,6 @@
 
 This is nothing more than the files for the snap lock SD card drawer in this video:
 
+[![YouTube](http://i.ytimg.com/vi/pPxQpw2Np7s/hqdefault.jpg)](https://www.youtube.com/watch?v=pPxQpw2Np7s)
+
+It mounts nicely to the stand of the new Raspberry Pi monitor and has a pleasing snap mechanism. 
