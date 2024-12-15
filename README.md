@@ -2,7 +2,7 @@
 
 # SD card case
 
-This is nothing more than the files for the SD card drawer in this video:
+The files for the SD card drawer featured in this video.
 
 [![YouTube](http://i.ytimg.com/vi/pPxQpw2Np7s/hqdefault.jpg)](https://www.youtube.com/watch?v=pPxQpw2Np7s)
 
