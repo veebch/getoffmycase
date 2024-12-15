@@ -2,7 +2,7 @@
 
 # SD card case
 
-The files for the SD card drawer featured in this video.
+The files for the SD card drawer featured in this video. It holds 3 micro SD cards.
 
 [![YouTube](http://i.ytimg.com/vi/pPxQpw2Np7s/hqdefault.jpg)](https://www.youtube.com/watch?v=pPxQpw2Np7s)
 
