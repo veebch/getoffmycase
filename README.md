@@ -6,4 +6,4 @@ The 3-d printable files for the SD card drawer that is featured in this video:
 
 [![Blog](http://i.ytimg.com/vi/pPxQpw2Np7s/hqdefault.jpg)](https://www.veeb.ch/projects/useful-is-better-than-clever)
 
-It holds 3 micro SD cards, mounts nicely to a flat surface (eg the stand of the new Raspberry Pi monitor) and has a pleasing snap mechanism. 
+It holds 3 micro SD cards, mounts nicely to a flat surface (eg the stand of a Raspberry Pi monitor) and has a pleasing snap mechanism. 
