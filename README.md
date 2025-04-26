@@ -4,6 +4,6 @@
 
 The files for the SD card drawer featured in this video:
 
-[![YouTube](http://i.ytimg.com/vi/pPxQpw2Np7s/hqdefault.jpg)](https://www.youtube.com/watch?v=pPxQpw2Np7s)
+[![Blog](http://i.ytimg.com/vi/pPxQpw2Np7s/hqdefault.jpg)](https://www.veeb.ch/projects/useful-is-better-than-clever)
 
 It holds 3 micro SD cards, mounts nicely to a flat surface (eg the stand of the new Raspberry Pi monitor) and has a pleasing snap mechanism. 
