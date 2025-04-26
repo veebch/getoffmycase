@@ -2,7 +2,7 @@
 
 # SD card case
 
-The files for the SD card drawer featured in this video:
+The 3-d printable files for the SD card drawer that is featured in this video:
 
 [![Blog](http://i.ytimg.com/vi/pPxQpw2Np7s/hqdefault.jpg)](https://www.veeb.ch/projects/useful-is-better-than-clever)
 
